@@ -1,6 +1,6 @@
 package banco;
 
-public class Clientes {
+public class Clientes extends Banco{
 	
 	private String nome;
 	private int email;
